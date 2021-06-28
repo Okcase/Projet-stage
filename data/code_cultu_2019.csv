@@ -1,0 +1,358 @@
+/* DATA DESCRIPTION:
+Code_cultu: french crop code 3 ascii letters
+Libelle: french long name
+LABEL EN: english long name
+CODE EN: english crop code 3 ascii letters
+License:    Creative Commons Attribution 4.0 (CC-BY-SA)
+Author: IGN - Institut National de l'Information Geographique et 
+  forestiere.
+*/
+Code_cultu;Libelle;LABEL_EN;Code_EN
+ACA;Autre culture non précisée (DOM);other cultivation;OCU
+AGR;Agrume;Citrus;CIT
+AIL;Ail;Garlic;GAR
+ANA;Ananas;pineapple;PIN
+ANE;Aneth;dill;DIL
+ANG;Angélique;Angelica;ANG
+ANI;Anis;Anise;ANI
+ARA;Arachide;Groundnut;GRN
+ART;Artichaut;Artichoke;ART
+AUB;Aubergine;Eggplant;EGP
+AVH;Avoine d'hiver;winter ;OAW
+AVO;Avocat;Avocado;AVO
+AVP;Avoine de printemps;sping ;OAS
+BAR;Bardane [Asteracée bisannuelle];burdock;BUR
+BAS;Basilic;basilic;BAC
+BCA;Banane créole autre;Creole banana;BCA
+BCF;Banane créole fermage;Creole banana;BCF
+BCI;Banane créole indivision;Creole banana;BCI
+BCP;Banane créole propriété;Creole banana;BCP
+BCR;Banane créole reforme fonciere;Creole banana;BCR
+BDH;Blé dur d'hiver;winter durum wheat;WDW
+BDP;Blé dur de printemps;sping durum wheat;WDS
+BDT;Blé dur de printemps;spring durum wheat late;WDT
+BEA;Banane export autre;export banana;BAE
+BEF;Banane export fermage;export banana;BEF
+BEI;Banane export indivision;export banana;BEI
+BEP;Banane export propriété;export banana;BEP
+BER;Banane export reforme fonciere;export banana;BER
+BFP;Bordure;border along forest with production;BFP
+BFS;Bordure;border along forest without production;BFW
+BLT;Bleuet;cornflower;CFL
+BOP;Bois pâturé;pasture wood;WOP
+BOR;Bordure;Field border;BOR
+BRH;Bourrache de 5 ans ou moins;Borage;BRG
+BRO;Brome de 5 ans ou moins;Bromus;BRO
+BTA;Bordure;border (buffer band);BUF
+BTH;Blé tendre d'hiver;winter bread wheat;WBW
+BTN;Betterave non fourragère / bette;non fodder beetroot;BTN
+BTP;Blé tendre de printemps;spring bread wheat;WBS
+BUR;Bugle rampant;Ajuga reptans;AJU
+BVF;Betterave fourragère;fodder beetroot;BTF
+CAB;Caroube;Carob / locust;CAB
+CAC;Café/cacao;coffe cocoa;CAC
+CAE;Châtaigneraie;chestnut wood;CTW
+CAF;Carotte fourragère;fodder carrot;CAF
+CAG;Autre céréale ou pseudo-céréale d'un autre genre;other cereal other genus;COG
+CAR;Carotte;carrot;CAR
+CAV;Carvi;caraway;CAW
+CBT;Cerise Bigarreau;Cherrie (bigarreau);CBT
+CCN;Concombre/cornichon;cucumber/gherkin;CCG
+CCT;Courgette/citrouille;zucchini/pumpkin;ZUP
+CEE;Chênaie;oak grove;OAK
+CEL;Céleri;celery;CEL
+CES;Chicorée/endive/scarole;chicoree/endive/scarol;CES
+CGF;Autre céréale de genre Fagopyrum;other cereal genus Fagopyrum;OCF
+CGH;Autre céréale de genre Phalaris;other cereal genus Phalaris;OCH
+CGO;Autre céréale de genre Sorghum;other cereal genus Sorghum;OCO
+CGP;Autre céréale de genre Panicum;other cereal genus Panicum;OCP
+CGS;Autre céréale de genre Setaria;other cereal genus Setaria;OCS
+CHA;Autre céréales d'hiver du genre Avena;other winter cereal genus Avena;CWA
+CHF;Chou fourrager;fodder cabbage;CBF
+CHH;Autre céréale d'hiver de genre Hordeum;other winter cereal genus Hordeum;CWH
+CHR;Chardon Marie;cardus marianus, milk thistle;CHR
+CHS;Autre céréale d'hiver de genre Secale;other winter cereal genus Secale;CWS
+CHT;Autre céréale d'hiver de genre Triticum;other winter cereal genus Triticum;CWT
+CHU;Chou;cabbage;CBB
+CHV;Chanvre;Hemp;HEM
+CIB;Ciboulette;chives;CHI
+CID;Cultures conduites en inter-rang;Inter-row crop;IDC
+CIT;Cultures conduites en inter-rang;Inter-row crop;IDT
+CMB;Courge musquée/butternut;butternut;BUT
+CML;Cameline;camelina;CML
+CMM;Camomille;chamomille;CMM
+CPA;Autre céréale de printemps de genre Avena;other cereal genus Avena;OCA
+CPH;Autre céréale de printemps de genre Hordeum;other spring cereal genus Hordeaum;CSH
+CPL;Fourrage composé de céréales et/ou protéagineux (< 50 %) et/ou de légumineuses (< 50 %);mixing fodder with cereal and protein or legumineous;CPL
+CPS;Autre céréale de printemps de genre Secale;other spring cereal genus Secale;CSS
+CPT;Autre céréale de printemps du genre Triticum;other spring cereal genus Triticum;CST
+CPZ;Autre céréale de printemps de genre Zea [= Maïs];other spring cereal genus Zea (Maize);CSZ
+CRA;Cresson alénois de 5 ans ou moins [Brassicacée herbacée];watercress alénois;WCA
+CRD;Coriandre;coriander;CRD
+CRF;Cerfeuil;Chervil;CHV
+CRN;Cornille [Fabacée - plante herbacée annuelle];black eyed pea (fabaceae);BEY
+CRS;Cresson;watercress;WCE
+CSA;Canne à sucre autre;sugar cane;CSA
+CSC;Canne à sucre;sugar cane;CSC
+CSE;Chanvre (non admissible après instruction);Hemp (non eligible);HEN
+CSF;Canne à sucre fermage;sugar cane;CSF
+CSI;Canne à sucre indiviision;sugar cane;CSI
+CSP;Canne à sucre propriété;sugar cane;CSP
+CSR;Canne à sucre reforme;sugar cane;CSR
+CSS;Culture sous serre hors sol;Off ground greenhouse cultivation;OGR
+CTG;Châtaigne;chestnut;CTN
+CUA;Culture sous abattis;fire fallow cultivation;FFC
+CUM;Cumin;cumin;CUM
+CUR;Curcuma;curcuma (tumeric);CUR
+CZH;Colza d'hiver;winter rapeseed;RAW
+CZP;Colza de printemps;spring rapeseed;RAS
+DOL;Dolique [Fabacée - plante herbacée annuelle];catjang (fabacea annuel grass plant);CAT
+DTY;Dactyle de 5 ans ou moins;cocksfoot grass (less 5 years);CKF
+EPE;Epeautre;spelt (german wheat);SPE
+EPI;Epinard;spinach;SPH
+EST;Estragon;tarragon;TAR
+FAG;Autre fourrage annuel d'un autre genre;other annual fodde, other genus;FOO
+FET;Fétuque de 5 ans ou moins;fetusca (less 5 year);FET
+FEV;Fève;bean;BEA
+FF5;Féverole fourragère 2015;fodder field bean 2015;FF5
+FF6;Féverole fourragère 2016;fodder field bean 2016;FF6
+FF7;Féverole fourragère 2017;fodder field bean 2017;FF7
+FF8;Féverole fourragère 2018;fodder field bean 2018;FF8
+FFO;Féverole fourragère autre;fodder field bean other;FFO
+FLA;Autre fruit ou légume annuel;other annual fruit vegetable;FLA
+FLO;Fléole de 5 ans ou moins;Timothy-grass;TYG
+FLP;Autre fruit ou légume pérenne;other perennial fruit vegetable;FLP
+FNO;Fenouil;Fennel;FNL
+FNU;Fenugrec [Fabacée - plante herbacée annuelle];fenugreek;FNU
+FRA;Fraise;strawberry;STB
+FSG;Autre plante fourragère sarclée d'un autre genre;other weeded fodder plant;FWE
+FVL;Féverole;field bean;FBL
+FVT;Féverole;field bean;FBT
+GAI;Gaillet;bedstraw;BST
+GER;Géranium;geranium;GER
+GES;Gesse;grass pea;GRP
+GFP;Autre graminée fourragère pure de 5 ans ou moins;other pure fodder gass 5 year or less;GFP
+HAR;Haricot/flageolet;green bean/flageolet;GRB
+HBL;Houblon;Hop;HOP
+HPC;Horticulture ornementale de plein champ;ornamental horitculture in field;HFI
+HSA;Horticulture ornementale sous abri;ornamental horitculture under shelter;HSH
+J5M;Jachère de 5 ans ou moins;fallow less 5 year;FW5
+J6P;Jachère pérenne de 6 ans ou plus;perenial fallow 6 year or more;F6P
+J6S;Jachère SIE de 6 ans ou plus;Ecological fallow 6 year or more;F6E
+JNO;Jachère noire;fallow (bare soil);FBS
+JO5;Jarosse plantée pour la récolte 2015;cow vetch planted for 2015 harvest;CV5
+JO6;Jarosse plantée pour la récolte 2016;cow vetch planted for 2016 harvest;CV6
+JO7;Jarosse plantée pour la récolte 2017;cow vetch planted for 2017 harvest;CV7
+JO8;Jarosse plantée pour la récolte 2018;cow vetch planted for 2018 harvest;CV8
+JOD;Jarosse déshydratée;cow vetch dehydrated;CVD
+JOS;Jarosse autre;cow vetch other;CVO
+LAV;Lavande/lavandin;lavander;LAV
+LBF;Laitue/batavia/feuille de chêne;lettuce/batavia/oakleaf lettuce;LBO
+LDH;Lupin doux d'hiver;winter sweet lupin;LSW
+LDP;Lupin doux de printemps ;spring sweet lupin sowed before 31/05;LSP
+LDT;Lupin doux de printemps;winter sweet lupin sowed before 31/05;LST
+LEC;Lentille non fourragère;non fodder lentil;LEN
+LEF;Lentille fourragère;fodder lentil;LEF
+LFH;Lupin fourrager d'hiver;winter fodder lupin;LFW
+LFP;Lupin fourrager de printemps;spring fodder lupin;LFS
+LH5;Lupin fourrager d'hiver implantée pour la récolte 2015;sowed for 2015 harvest;LW5
+LH6;Lupin fourrager d'hiver implantée pour la récolte 2016;sowed for 2016 harvest;LW6
+LH7;Lupin fourrager d'hiver implantée pour la récolte 2017;sowed for 2017 harvest;LW7
+LH8;Lupin fourrager d'hiver implantée pour la récolte 2018;sowed for 2018 harvest;LW8
+LIF;Lin fibres;fibber flax;FXF
+LIH;Lin non textile d'hiver;winter flax (non fibber);FXW
+LIP;Lin non textile de printemps;spring flax non fibber);FXS
+LO7;Lotier implanté pour la récolte 2017;lotus (Birdsfoot trefoil) sowed for 2017 harvest;LO7
+LO8;Lotier implanté pour la récolte 2018;lotus (Birdsfoot trefoil) sowed for 2018 harvest;LO8
+LOT;Lotier autre;other lotus;LOT
+LP5;Lupin fourrager de printemps implantée pour la récolte 2015;spring fodder lupin sowed for 2015 harvest;LS5
+LP6;Lupin fourrager de printemps implantée pour la récolte 2016;spring fodder lupin sowed for 2016 harvest;LS6
+LP7;Lupin fourrager de printemps implantée pour la récolte 2017;spring fodder lupin sowed for 2017 harvest;LS7
+LP8;Lupin fourrager de printemps implantée pour la récolte 2018;spring fodder lupin sowed for 2018 harvest;LS8
+LSA;Légumes sous abri;vegetable under shelter;VUS
+LU5;Luzerne implantée pour la recolte 2015;alfalfa sowed for 2015 harvest;AF5
+LU6;Luzerne implantée pour la récolte 2016;alfalfa sowed for 2016 harvest;AF6
+LU7;Luzerne implantée pour la récolte 2017;alfalfa sowed for 2017 harvest;AF7
+LU8;Luzerne  implantée pour la récolte 2018;alfalfa sowed for 2018 harvest;AF8
+LUD;Luzerne déshydratée;dehydrated alfalfa;AFD
+LUZ;Luzerne autre;alfalfa other;AFO
+MAC;Mâche;lamb lettuce;LLT
+MAV;Mauve;common mallow;MAL
+MC5;Mélange de légumineuses fourragères prépondérantes et de céréales implantée pour la récolte 2015;mix of predominant fodder and cereal sowed for 2015 harvest;MC5
+MC6;Mélange de légumineuses fourragères prépondérantes et de céréales implantée pour la récolte 2016;mix of predominant fodder and cereal sowed for 2016 harvest;MC6
+MC7;Mélange de légumineuses fourragères prépondérantes et de céréales implantée pour la récolte 2017;mix of predominant fodder and cereal sowed for 2017 harvest;MC7
+MC8;Mélange de légumineuses fourragères prépondérantes et de céréales implantée pour la récolte 2018;mix of predominant fodder and cereal sowed for 2018 harvest;MC8
+MCR;Mélange de cérales ou pseudo-céréales pures ou mélange avec des protéagineux non prépondérants;mix of cereal or pseudo cereal or mix with non predominant protein;MCR
+MCT;Miscanthus;Miscanthus;MCT
+ME5;Mélilot implanté pour la récolte 2015;melilot sowed for 2015 harvest;ME5
+ME6;Mélilot implanté pour la récolte 2016;melilot sowed for 2016 harvest;ME6
+ME7;Mélilot implanté pour la récolte 2017;melilot sowed for 2017 harvest;ME7
+ME8;Mélilot implanté pour la récolte 2018;melilot sowed for 2018 harvest;ME8
+MED;Mélilot déshydraté;dehydrated melilot;MED
+MEL;Mélilot;melilot;MEL
+MH5;Mélange de légumineuses prépondérantes et de graminées implantée pour la récolte 2015;mix of predominant legumes with grass sowed for 2015 harvest;MH5
+MH6;Mélange de légumineuses prépondérantes et de graminées implantée pour la récolte 2016;mix of predominant legumes with grass sowed for 2016 harvest;MH6
+MH7;Mélange de légumineuses prépondérantes et de graminées implantée pour la récolte 2017;mix of predominant legumes with grass sowed for 2017 harvest;MH7
+MI7;Minette implantée pour la récolte 2017;black medick sowed for 2017 harvest;BM7
+MI8;Minette implantée pour la récolte 2018;black medick sowed for 2018 harvest;BM8
+MID;Maïs doux;sweetcorn;SWC
+MIE;Maïs ensilage;maize silage;MIS
+MIN;Minette;black medick;BMK
+MIS;Maïs;Maize;MIZ
+ML5;Mélange de légumineuses fourragères entre elles implantée pour la récolte 2015;mix of fodder legumes sowed for 2015 harvest;ML5
+ML6;Mélange de légumineuses fourragères entre elles implantée pour la récolte 2016;mix of fodder legumes sowed for 2016 harvest;ML6
+ML7;Mélange de légumineuses fourragères entre elles implantée pour la récolte 2017;mix of fodder legumes sowed for 2017 harvest;ML7
+ML8;Mélange de légumineuses fourragères entre elles implantée pour la récolte 2015;mix of fodder legumes sowed for 2018 harvest;ML8
+MLC;Mélange de légumineuses fourragères prépondérantes et de cérales et/ou d'oléagineux;mix of predominant fodder legumes with cereal or oleagineous;MLC
+MLD;Mélange de légumineuses déshydratées entre elles;mix of dehydrated legumes;MLD
+MLF;Mélange de légumineuses fourragères entre elles;mix of fodder legumes sowed for 2015 harvest;MLF
+MLG;Mélange légumineuses prépondérantes et graminées;mix of predominant legume with grass;MLG
+MLS;Mélanges type lentillon prépondérant épeautre;mix of predominant Lentil with spelt;MLS
+MLI;Mélisse;balm (lemon balm);BAL
+MLO;Melon;Melon;MLO
+MLP;Millepertuis;St. John's wort;SJW
+MLT;Millet;Millet;MLT
+MOH;Moha;Foxtail millet;FOX
+MOL;Mélange d'oléagineux;oleagineous mix;MOL
+MOT;Moutarde;Mustard;MUS
+MPA;Autre mélange de plantes fixant l'azote;other plant mixture nitrogen fixation;MNF
+MPC;Mélange de protéagineux prépondérants et de céréales;mix of predominant protein with cereal;MPC
+MPP;Mélange de protéagineux;protein mix sowed before 31/05;MPP
+MPT;Mélange de protéagineux prépondérants et de céréales;protein mix sowed after 31/05;MPT
+MRG;Marguerite;ox-eye daisy;OED
+MRJ;Marjolaine/origan;marjoram;MRJ
+MRS;Marais salants;salt march;SAM
+MTH;Menthe;Mint;MIT
+NOS;Noisette;hazelnut;HAZ
+NOX;Noix;walnut;WAL
+NVE;Navette d'été;summer turnip rape;STR
+NVF;Navet fourrager;fodder turnip;TUF
+NVH;Navette d'hiver;winter turnip rape;WTR
+NVT;Navet;turnip;TUP
+NYG;Nyger [Asteracée annuelle];Nyger;NYG
+OAG;Autre oléagineux d'un autre genre;other oleagineous genus;OOG
+OEH;Autre oléagineux d'espèce Helianthus;other oleagineous species Helianthus;OEH
+OEI;Oeillette;breadseed poppy;BRP
+OHN;Autre oléagineux d'hiver d'espèce Brassica napus;other winter oleagineous species Brassica napus;OHN
+OHR;Autre oléagineux d'hiver d'espèce Brassica rapa;other winter oleagineous species Brassica rapa;OHR
+OIG;Oignon / échalote;oinon;OIN
+OLI;Oliveraie;Olive tree;OLI
+OPN;Autre oléagineux de printemps d'espèce Brassica napus [= colza];other sping oleagineous species brassica napus (rapeseed);OSN
+OPR;Autre oléagineux de printemps d'espèce Brassica rapa [= navette];other spring oleagineous species brassica rapa;OSR
+ORH;Orge d'hiver;winter barley;BAW
+ORP;Orge de printemps;spring barley;BAS
+ORT;Ortie;Nettle;NET
+OSE;Oseille;sorell;SRE
+PAG;Autre protéagineux d'un autre genre;other protein crop;POC
+PAN;Panais;parsnip;PAR
+PAQ;Pâquerette;daisy;DAI
+PAR;Plante aromatique (autre que vanille) - DOM;aromatical plant;ARP
+PAS;Pastèque;watermelon;WML
+PAT;Pâturin de 5 ans ou moins;rough bluegrass less 5 year;RBG
+PCH;Pois chiche;chickpea;CPE
+PCL;Phacélie de 5 ans ou moins;lacy phacelia less 5 year;PCL
+PEP;Pépinière;nursery;NUR
+PFH;Pois fourrager d'hiver;winter fodder pea;WPF
+PFP;Pois fourrager de printemps;spring pea;SPF
+PFR;Petit fruit rouge;little red berries;RBE
+PH5;Pois fourrager d'hiver implanté pour la récolte 2015;winter fodder pea sowed ofr 2015 harvest;WP5
+PH6;Pois fourrager d'hiver implanté pour la récolte 2016;winter fodder pea sowed ofr 2016 harvest;WP6
+PH7;Pois fourrager d'hiver implanté pour la récolte 2017;winter fodder pea sowed ofr 2017 harvest;WP7
+PH8;Pois fourrager d'hiver implanté pour la récolte 2018;winter fodder pea sowed ofr 2018 harvest;WP8
+PHI;Pois d'hiver;winter pea;WPE
+PIS;Pistache;pistachio;PIS
+PMD;Plante médicinale (DOM);medecinal plant;MEP
+PMV;Primevère;primrose;PRI
+POR;Poireau;leek;LEE
+POT;Potiron / potimarron;pumpkin;PUM
+PP5;Pois fourrager de printemps  implanté pour la récolte 2015;spring pea  sowed ofr 2015 harvest;SP5
+PP6;Pois fourrager de printemps  implanté pour la récolte 2016;spring pea  sowed ofr 2016 harvest;SP6
+PP7;Pois fourrager de printemps  implanté pour la récolte 2017;spring pea  sowed ofr 2017 harvest;SP7
+PP8;Pois fourrager de printemps  implanté pour la récolte 2018;spring pea  sowed ofr 2018 harvest;SP8
+PPA;Autre plante ornementale et PPAM annuelle;other annual ornamental, perfum, aromactic medecinal plant;PPA
+PPF;Plante à pafum (autre que géranimum et vetiver) - DOM;perfum plante;PFP
+PPH;Prairie permanente - herbe prédominante;permanent grassland;PGR
+PPO;Pois (petit pois, pois cassés, pois gourmands);pea (field pea, mangetout);PEA
+PPP;Autre plante ornementale et PPAM pérenne;other perenial ornamental, perfum, aromactic medecinal plant;PPP
+PPR;Pois de printemps semé avant le 31/05;spring pea sowed before 31/05;PSR
+PPT;Pois de printemps semé après le 31/05;spring pea sowed after 31/05;PST
+PRL;Prairie à rotation longue;meadow long rotation;MLR
+PRU;Prune d'Ente;ente plum;PLU
+PSE;Pensée;pansy;PAY
+PSL;Persil;Parsley;PSL
+PSN;Psyllium noir de Provence;Psyllium (black);PSB
+PSY;Plantain psyllium;Plantago Afra;PAF
+PTC;Pomme de terre de consommation;potato;PTT
+PTF;Pomme de terre fécule;potato starch;PTS
+PTR;Prairie temporaire de 5 ans ou moins;temporary grassland less 5 yer;TGR
+PVP;Poivron / piment;bell pepper;PEP
+PVT;Pêche Pavie;pavia peache;PPC
+PWT;Poire Williams;william pear;PEW
+RDF;Radis fourrager [Brassicacée];fodder radish;RDF
+RDI;Radis;radish;RDI
+RGA;Ray-grass anglais;English ray-grass;ERG
+RIZ;Riz;Rice;RIC
+ROM;Romarin;rosemary;ROS
+ROQ;Roquette;rocket (arugula);ROK
+ROS;Roselières;reedbed;REE
+RUT;Rutabaga;rutabaga;RUT
+RVI;Restructuration du vignoble;vineyard restructuring;RVI
+SA5;Sainfoin implantée pour la récolte 2015;common sainfoin sowed for 2015 harvest;SA5
+SA6;Sainfoin implantée pour la récolte 2016;common sainfoin sowed for 2016 harvest;SA6
+SA7;Sainfoin implantée pour la récolte 2017;common sainfoin sowed for 2017 harvest;SA7
+SA8;Sainfoin implantée pour la récolte 2018;common sainfoin sowed for 2018 harvest;SA8
+SAD;Sainfoin déshydraté;dehydrated common sainfoin;SAD
+SAI;Sainfoin autre;common sainfoin other;SAO
+SBO;Surface boisée;wooded area;WOO
+SE5;Serradelle implantée pour la récolte 2015;serradella sowed for 2015 harvest;SE5
+SE6;Serradelle implantée pour la récolte 2016;serradella sowed for 2016 harvest;SE6
+SE7;Serradelle implantée pour la récolte 2017;serradella sowed for 2017 harvest;SE7
+SE8;Serradelle implantée pour la récolte 2018;serradella sowed for 2018 harvest;SE8
+SER;Serradelle autre;serradella other;SER
+SFI;Salsifis;salsify;SFY
+SGE;Sauge;sage;SAG
+SGH;Seigle d'hiver;winter rye;WRY
+SGP;Seigle de printemps;spring rye;SRY
+SNE;Surface temporairement non exploitée;non exploited area;NEA
+SOG;Sorgho;sorghum;SOR
+SOJ;Soja;soybean;SOY
+SPH;Surface pastorale - herbe prédominante;pastoral area mainly (prevailing)  hebaceous;PAH
+SPL;Surface pastorale - ligneux prédominants;pastoral area mainly (prevailing)  woody;PAW
+SRI;Sarriette;savory;SAV
+SRS;Sarrasin;buckwheat;BWH
+TAB;Tabac;Tobacco;TOB
+TBT;Tubercule tropical;tropical tubber;TUB
+TCR;taillis courte rotation;short rotation coppice;COP
+THY;Thym;Thyme;THY
+TOM;Tomate;Tomato;TOM
+TOP;Topinambour;Jerusalem artichoke;JEA
+TOT;Tomate transformation;Tomato processing;TOI
+TR5;Trèfle implantée pour la récolte 2015;clover sowed for 2015 harvest;CL5
+TR6;Trèfle implantée pour la récolte 2016;Clover sowed for 2016 harvest;CL6
+TR7;Trèfle implantée pour la récolte 2017;Clover sowed for 2017 harvest;CL7
+TR8;Trèfle implantée pour la récolte 2018;clover sowed for 2018 harvest;CL8
+TRD;Trèfle déshydraté;dhydrated clover;CLD
+TRE;Trèfle autre;clover other;CLO
+TRN;Tournesol;sunflower;SUN
+TRU;Truffière;truffle patch;TRU
+TTH;Triticale d'hiver;winter tritical;TRW
+TTP;Triticale de printemps;spring tritical;TRS
+VAL;Valériane;Valerian;VAL
+VE5;Vesce  implantée pour la récolte 2015;vetche sowed for 2015 harvest;VE5
+VE6;Vesce  implantée pour la récolte 2016;vetche sowed for 2016 harvest;VE6
+VE7;Vesce  implantée pour la récolte 2017;vetche sowed for 2017 harvest;VE7
+VE8;Vesce  implantée pour la récolte 2018;vetche sowed for 2018 harvest;VE8
+VED;Vesce déshydratée;dehydrated vetche;VED
+VER;Véronique;Veronica;VER
+VES;Vesce autre;vetche other;VEO
+VET;Vetiver;Vetiver;VET
+VGD;Verger DOM;orchard (oversea territory);ORO
+VNB;Vanille sous bois;vanilla under wood;VAW
+VNL;Vanille;Vanilla;VAN
+VNV;Vanille verte;green vanilla;VAG
+VRC;Vigne cuve;vineyard ferment;VIF
+VRG;Verger;orchard ;ORH
+VRN;Vigne (pas en production);vineyard not producting ;VIN
+VRT;Vigne table;vineyard table fruit;VIT
+XFE;X-Festulolium de 5 ans ou moins [croisement fétuque-ray-grass]; X-Festulolium less 5 year (ray-grass festuca crossbreed);XFE
+YLA;Ylang-ylang;Ylang-ylang;YLA

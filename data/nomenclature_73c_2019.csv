@@ -1,0 +1,86 @@
+/* DATA DESCRIPTION:
+lpis/crop nomenclature with 73 classes
+LABEL_2019_V1: french long name
+CODE9: crop code 9 ascii letters french
+CODE3: crop code 3 ascii letters french
+N_2019: classe code (ini) used in 2019 experimentations
+Label_2019 ENG: english long name
+CODE9_EN: crop code 9 ascii letters english 
+License:    Creative Commons Attribution 4.0 (CC-BY-SA)
+Author: IGN - Institut National de l'Information Geographique et 
+  forestiere.
+*/
+LABEL_2019_V1;CODE9;CODE3;N2019;LABEL_2019_ENG;CODE9_EN
+Herbe prédominante;HERB_PRED;HER;1;Grass prevailing;GRASS_PRE
+Blé tendre d’hiver;BLE_TEN_H;BTH;2;Winter bread wheat;WHEAT_B_W
+Maïs;MAIS;MIS;3;Maize;MAIZE
+Orge d'hiver;ORGE_H;ORH;4;Winter barley;BARLEY_W
+Colza d’hiver;COLZA_H;CZH;5;Winter rapeseed;RAPE_W
+Orge de printemps;ORGE_P;ORP;6;Spring barley;BARLEY_S
+Ligneux prédominants;LIGN_PRED;LGN;7;Woody prevailing;WOOD_PREV
+Tournesol;TOURNESOL;TRN;8;Sunflower;SUNFLOWER
+Vigne;VIGNE;VGN;9;Vineyard;VINEYARD
+Betterave;BETTERAVE;BTR;10;Beet;BEET
+Luzerne;LUZERNE;LUZ;11;Alfalfa;ALFALFA
+Triticale d’hiver;TRITICA_H;TTH;12;Winter Triticale;TRITICA_W
+Bois pâturé;BOIS_PATU;BOP;13;Pasture wood;WOOD_PAS
+Blé dur d’hiver;BLE_DUR_H;BDH;14;Winter durum wheat;WHEAT_D_W
+Fruits, légumes, fleurs;FR_LE_FLE;FLF;15;Flower, fruit, vegetable;FL_FR_VEG
+Pomme de terre;POMM_TERR;PDT;16;Potato;POTATO
+Légumineuses fourragères;LEGU_FOUR;LGF;17;Leguminous fodder;LEGU_FODD
+Surface temporairement non exploitée;SURF_TNEX;SNE;18;No exploited surface;NO_EX_SUR
+Soja;SOJA;SOJ;19;Soybean;SOYBEAN
+Verger;VERGER;VRG;20;Orchard;ORCHARD
+Lin fibres;LIN_FIBRE;LIF;21;Fiber Flax;FLAX_F
+Mélange de céréales;ML_CEREAL;MCR;22;Cereal mixture;CEREAL_MX
+Pois de printemps;POIS_P;POP;23;Spring peas;PEA_S
+Sorgho;SORGHO;SOG;24;Sorghum;SORGHUM
+Bordure;BORDURE;BOR;25;Border (field);BORDER
+Féverole;FEVEROLE;FVL;26;Field bean;FIELD_BEA
+Chênaie châtaigneraie;CHEN_CHAT;CHE;27;Oak chesnut wood;OAT_CHESN
+Autres fourrages;AUTR_FOUR;AFO;28;Other fodder;OT_FODDER
+Avoine d’hiver;AVOINE_H;AVH;29;Winter oat;OAT_W
+Pois d’hiver;POIS_H;POH;30;Winter peas;PEA_W
+Mélange de protéagineux et de céréales;ML_PR_CR;MPC;31;Cereal protein mixture;CR_PR_MX
+Canne à sucre;CANN_SUCR;CSU;32;Sugar canne;SUGAR_CAN
+Avoine de printemps;AVOINE_P;AVP;33;Spring oat;OAT_S
+Lentille;LENTILLE;LEN;34;Lentil;LENTIL
+Pois chiche;POIS_CHIC;POC;35;Chick pea;CHICKPEA
+Sarrasin;SARRASIN;SRS;36;Buckwheat;BUCKWHEAT
+Seigle d'hiver;SEIGLE_H;SGH;37;Winter rye;RYE_W
+Noyers;NOYERS;NOX;38;Walnut;WALNUT
+Lavande/lavandin;LAVANDIN;LAV;39;Lavander;LAVANDER
+Millet;MILLET;MLT;40;Mil;MIL
+Plantes à parfum, aromatiques et médicinales;PLANT_PAM;PAM;41;Perfume aromatic medecinal plant;PAM_PLANT
+Blé tendre de printemps;BLE_TEN_P;BTP;42;Spring bread wheat;WHEAT_B_S
+Autres;AUTRES;AUT;43;Other;OTHER
+Épeautre;EPEAUTRE;EPE;44;Spelt;SPELT
+Riz;RIZ;RIZ;45;Rice;RICE
+Chanvre;CHANVRE;CHA;46;Hemp;HEMP
+Oliveraie ;OLIVERAIE;OLI;47;Olive Tree;OLIVE_TRE
+Lin d’hiver;LIN_H;LIH;48;Winter Flax;FLAX_W
+Surface boisée;SURF_BOIS;SBO;49;Woody surface;WOOD_SURF
+Lin de printemps;LIN_P;LIP;50;Spring Flax;FLAX_S
+Moutarde;MOUTARDE;MOT;51;Mustard;MUSTARD
+Blé dur de printemps;BLE_DUR_P;BDP;52;Spring durum wheat;WHEAT_D_S
+Banane;BANANE;BAN;53;Banana;BANANA
+Biomasse;BIOMASSE;BIO;54;Biomass;BIOMASS
+Autres oléagineux de printemps;AUTR_OLEP;AOP;55;Other spring oleaginous;OT_OLEA_S
+Truffière;TRUFFIERE;TRU;56;Truffle patch;TRUFFLE
+Moha;MOHA;MOH;57;Foxtail Millet;FOX_MIL
+Taillis à courte rotation;TAIL_CRT;TCR;58;short rotation coppice;COPPIC_SR
+Céréales;CEREALES;CER;59;Cereal;CEREAL
+Eau, marais;EAU_MARAI;EAU;60;water ;WATER
+Triticale de printemps;TRITICA_P;TTP;61;Spring Triticale;TRITICA_S
+Colza de printemps;COLZA_P;CZP;62;Spring rapeseed;RAPE_S
+Tabac;TABAC;TAB;63;tobacco;TOBACCO
+Lupin de printemps;LUPIN_P;LPP;64;Spring Lupin;LUPIN_S
+Lupin d’hiver;LUPIN_H;LPH;65;Winter Lupin;LUPIN_W
+Autres protéagineux;AUTR_PROT;APR;66;Other protein;OT_PROTEI
+Autres oléagineux;AUTR_OLEA;AOL;67;Other oleaginous / oil seed;OT_OLEA
+Serres;SERRES;SER;68;Greenhouse;GREENHOUS
+Seigle de printemps;SEIGLE_P;SGP;69;Spring rye;RYE_S
+Houblon;HOUBLON;HBL;70;Hops;HOPS
+Fève;FEVE;FEV;71;bean (broad bean / fava bean);BEAN
+Café / Cacao;CAFE_CACA;CAC;72;coffe cocoa;COFFE_COC
+Sol nu;SOL_NU;SOL;73;Bare Soil;BARESOIL
