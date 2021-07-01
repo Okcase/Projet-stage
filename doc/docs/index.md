@@ -29,10 +29,36 @@ More concretely in terms of sub-objective / tasks, this means that we must :
 - Allow to convert data into different code nomenclatures.
 - Allow to document and centralize configurations allowing to make nomenclature change.
 
-## Project layout
+**However the purpose of the internship is not to do this work on the whole data but only to initiate the data organization needed and to develop a first version of code allowing to calculate these data transformations.**
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+To do so:
 
+- The homogenization work will be done on three or four chosen data sources and two target nomenclatures.
+
+These works constitute a first part and can be followed, if ever there is still time, by studies / reflections on :
+
+- The temporal consistency of RPG data : i.e allow multi-annual queries on the data (find stable parcels and those that have evolved).
+
+  Have origin-destination links in evolved parcels and reflect on an associated data model (SQL table modeling and associated query for example)
+
+- Seek to automate nomenclature changes (RDF graph and ontology implementation)
+
+We can also try to show the interest of this work with concrete examples of use such as :
+
+- Web visualization of several homogenized data
+- Calculation of statistics and comparative data visualization of crops between countries type.
+
+## Technical choices
+
+To meet the different needs we decided to develop and implement a github code repository which will include :
+
+- An associated website, generated as a static site / pages via a mkdocs type engine. This documentation should be used to host documentation on LPIS data sources.
+- Python notebooks associated with each data source to accompany the documentation of their specification.
+- A python module regrouping the functions of data conversion.
+- configuration files (nomenclature, convertion table) for each data source. Files in .txt format (.csv for example to be able to be versioned).
+
+The code must be able to reproduce the preparation and be understandable by other European organisms so everything will be done in English.
+
+By default we will use the existing python libraries for the processing of geographic data (pandas / geopandas, fiona).
+
+If performance problems occurs, we can use databases (spatial extension of SQLite or PostGIS for PostGreSQL).

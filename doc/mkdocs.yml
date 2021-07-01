@@ -1,6 +1,9 @@
-site_name: MKLorum
+site_name: Stage Project
 site_url: https://example.com/
 nav:
     - Home: index.md
+    - Countries : 
+        - Flandre : flandre.md
+        - Luxembourg : luxembourg.md
     - About: about.md
-
+theme : flatly
