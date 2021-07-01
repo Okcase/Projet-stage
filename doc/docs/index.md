@@ -1,5 +1,7 @@
 # Home
 
+![screenshot](img/qgis.png)
+
 ## Main objective
 
 To have data preparation code to handle LPIS type geographic data (agricultural parcels) homogeneously on the European territory.
