@@ -90,10 +90,6 @@
             
             <li class="nav-item" data-level="1"><a href="#home" class="nav-link">Home</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#main-objective" class="nav-link">Main objective</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
             <li class="nav-item" data-level="2"><a href="#technical-choices" class="nav-link">Technical choices</a>
               <ul class="nav flex-column">
               </ul>
@@ -106,61 +102,64 @@
                     <div class="col-md-9" role="main">
 
 <h1 id="home">Home</h1>
+<p>Data preparation code to handle LPIS type geographic data (agricultural parcels) homogeneously on the European territory.</p>
+<p>Purpose : transform multiple and heterogeneous data into more integrated and homogeneous data.</p>
+<p>The agricultural data are produced and published (not all of them) by the various European organizations that distribute agricultural subsidies.</p>
 <p><img alt="screenshot" src="img/qgis.png" /></p>
-<h2 id="main-objective">Main objective</h2>
-<p>To have data preparation code to handle LPIS type geographic data (agricultural parcels) homogeneously on the European territory.</p>
-<p>The objective is to move from multiple and heterogeneous data in specification to more integrated and homogeneous data among themselves.</p>
-<p>Indeed today these data are built and disseminated (not all of them) by the various agricultural aid payment European organisms.</p>
-<p>Each organism has a it's own data schema, whether this is:</p>
+<h3 id="specifications">Specifications</h3>
+<p>Each organization has its own data specs :</p>
 <ul>
 <li>
 <p>at the level of the parcel identification attribute</p>
 </li>
 <li>
-<p>on the attribute describing the crop of a parcel. The latter often corresponds to a code or a label in a well defined crop nomenclature.</p>
+<p>at the level of the attribute describing the crop of a parcel. The latter often corresponds to a code or a label in a well-defined crop nomenclature.</p>
 </li>
 </ul>
-<p>But this is different depending on the payment organism and is often in the language of it's country.</p>
+<p>But this is different depending on the payment organization and is often in the language of its country.</p>
 <ul>
 <li>on the map projection and the vector data format used.</li>
 </ul>
-<p>These different data therefore cannot be easily used jointly. In particular when one wishes to use these data for web displays, statistical studies or for building learning games for AI / Deep-learning algorithms.</p>
-<p>More concretely in terms of sub-objective / tasks, this means that we must :</p>
+<p>Therefore, these different data cannot be easily used together. Especially when you want to use this data for web displays, statistical studies or to build training sets for AI / Deep-learning algorithms.</p>
+<h3 id="data-preprocessing">Data preprocessing:</h3>
 <ul>
-<li>Identify LPIS data sources and provide a central point to complete and upload this data inventory.</li>
-<li>Document the format of the various original data.</li>
-<li>Allow to translate and simplify the original data (deletion of specific column attributes).</li>
-<li>Allow to reprojete and convert the original data according to specific spatial footprints (sentinel-2 tiling) and geojson format (GIS process).</li>
-<li>Allow to convert data into different code nomenclatures.</li>
-<li>Allow to document and centralize configurations allowing to make nomenclature change.</li>
+<li>Survey of the different LPIS data sources and documentation of the various formats for each country.</li>
+<li>Cleaning and translating LPIS data</li>
 </ul>
-<p><strong>However the purpose of the internship is not to do this work on the whole data but only to initiate the data organization needed and to develop a first version of code allowing to calculate these data transformations.</strong></p>
-<p>To do so:</p>
+<h3 id="available-features">Available features:</h3>
 <ul>
-<li>The homogenization work will be done on three or four chosen data sources and two target nomenclatures.</li>
+<li>Convert data into different code nomenclatures.</li>
+<li>Reprojecting LPIS data according to specified spatial areas (Sentinel-2 tiling) </li>
+<li>Convert data to geojson (web display) or geopackage (GIS processing)</li>
 </ul>
-<p>These works constitute a first part and can be followed, if ever there is still time, by studies / reflections on :</p>
+<p><strong>! Preliminary and uncompleted work that presents the required pre-treatments to work on LPIS data at the European level with a first version of code with 3 or 4 selected data sources and 2 target nomenclatures.</strong></p>
+<h3 id="future-developments">Future developments:</h3>
 <ul>
-<li>The temporal consistency of RPG data : i.e allow multi-annual queries on the data (find stable parcels and those that have evolved).</li>
+<li>Temporal harmonization of the RPG data: multi-year queries on the data (find the stable plots and those which evolved).</li>
+<li>
+<p>Origin-destination links in the parcels which have evolved with an associated data model (sql table modeling and associated queries for example)</p>
+</li>
+<li>
+<p>Automate the transformation of nomenclatures (RDF graph and implementation of ontologies)</p>
+</li>
 </ul>
-<p>Have origin-destination links in evolved parcels and reflect on an associated data model (SQL table modeling and associated query for example)</p>
+<h3 id="concrete-applications-such-as">Concrete applications such as :</h3>
 <ul>
-<li>Seek to automate nomenclature changes (RDF graph and ontology implementation)</li>
-</ul>
-<p>We can also try to show the interest of this work with concrete examples of use such as :</p>
-<ul>
-<li>Web visualization of several homogenized data</li>
-<li>Calculation of statistics and comparative data visualization of crops between countries type.</li>
+<li>
+<p>Web visualization of several homogenized data</p>
+</li>
+<li>
+<p>Statistics and visualization of comparative data between crops of different countries</p>
+</li>
 </ul>
 <h2 id="technical-choices">Technical choices</h2>
 <p>To meet the different needs we decided to develop and implement a github code repository which will include :</p>
 <ul>
 <li>An associated website, generated as a static site / pages via a mkdocs type engine. This documentation should be used to host documentation on LPIS data sources.</li>
-<li>Python notebooks associated with each data source to accompany the documentation of their specification.</li>
-<li>A python module regrouping the functions of data conversion.</li>
-<li>configuration files (nomenclature, convertion table) for each data source. Files in .txt format (.csv for example to be able to be versioned).</li>
+<li>Python notebooks for each data source</li>
+<li>A python module for data conversion functionalities.</li>
+<li>Configuration files (nomenclature, conversion table) for each data source. Files in .txt / .csv format or example to be versioned.</li>
 </ul>
-<p>The code must be able to reproduce the preparation and be understandable by other European organisms so everything will be done in English.</p>
 <p>By default we will use the existing python libraries for the processing of geographic data (pandas / geopandas, fiona).</p>
 <p>If performance problems occurs, we can use databases (spatial extension of SQLite or PostGIS for PostGreSQL).</p></div>
             </div>
@@ -243,5 +242,5 @@
 
 <!--
 MkDocs version : 1.2.1
-Build Date UTC : 2021-07-01 14:05:13.779950+00:00
+Build Date UTC : 2021-07-01 14:12:17.917551+00:00
 -->
