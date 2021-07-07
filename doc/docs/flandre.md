@@ -4,6 +4,10 @@
 
 
 
+The NUTS code of Flandre is BE2.
+
+The nomenclature used is from 2020.
+
 The nomenclature of Flandre is made of 525 592 rows x 11 columns.
 
 We will use specific columns.
