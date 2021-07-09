@@ -46,7 +46,7 @@ Index;Label;CODE9
 44;Colza d'hiver;COLZA_H
 45;Colza d'hiver;COLZA_H
 46;Colza de printemps;COLZA_P
-47;Autres oléagineux;AUTR_OLEA
+47;Tournesol;TOURNESOL
 48;Soja;SOJA
 49;Autres oléagineux;AUTR_OLEA
 50;Pois de printemps;POIS_P
@@ -62,210 +62,210 @@ Index;Label;CODE9
 60;Herbe prédominante;HERB_PRED
 61;Herbe prédominante;HERB_PRED
 62;Herbe prédominante;HERB_PRED
-63;Surface boisée;SURF_BOIS
-64;Surface boisée;SURF_BOIS
+63;Bois pâturé;BOIS_PATU
+64;Bois pâturé;BOIS_PATU
 65;Herbe prédominante;HERB_PRED
 66;Herbe prédominante;HERB_PRED
 67;Fruits, légumes, fleurs;FR_LE_FLE
-68;
-69;
-70;
-71;
-72;
-73;
-74;
-75;
-76;
-77;
-78;
-79;
-80;
-81;
-82;
-83;
-84;
-85;
-86;
-87;
-88;
-89;
-90;
-91;
-92;
-93;
-94;
-95;
-96;
-97;
-98;
-99;
-100;
-101;
-102;
-103;
-104;
-105;
-106;
-107;
-108;
-109;
-110;
-111;
-112;
-113;
-114;
-115;
-116;
-117;
-118;
-119;
-120;
-121;
-122;
-123;
-124;
-125;
-126;
-127;
-128;
-129;
-130;
-131;
-132;
-133;
-134;
-135;
-136;
-137;
-138;
-139;
-140;
-141;
-142;
-143;
-144;
-145;
-146;
-147;
-148;
-149;
-150;
-151;
-152;
-153;
-154;
-155;
-156;
-157;
-158;
-159;
-160;
-161;
-162;
-163;
-164;
-165;
-166;
-167;
-168;
-169;
-170;
-171;
-172;
-173;
-174;
-175;
-176;
-177;
-178;
-179;
-180;
-181;
-182;
-183;
-184;
-185;
-186;
-187;
-188;
-189;
-190;
-191;
-192;
-193;
-194;
-195;
-196;
-197;
-198;
-199;
-200;
-201;
-202;
-203;
-204;
-205;
-206;
-207;
-208;
-209;
-210;
-211;
-212;
-213;
-214;
-215;
-216;
-217;
-218;
-219;
-220;
-221;
-222;
-223;
-224;
-225;
-226;
-227;
-228;
-229;
-230;
-231;
-232;
-233;
-234;
-235;
-236;
-237;
-238;
-239;
-240;
-241;
-242;
-243;
-244;
-245;
-246;
-247;
-248;
-249;
-250;
-251;
-252;
-253;
-254;
-255;
-256;
-257;
-258;
-259;
-260;
-261;
-262;
-263;
-264;
-265;
-266;
-267;
-268;
-269;
+68;Fruits, légumes, fleurs;FR_LE_FLE
+69;Fève;FEVE
+70;Fruits, légumes, fleurs;FR_LE_FLE
+71;Fruits, légumes, fleurs;FR_LE_FLE
+72;Fruits, légumes, fleurs;FR_LE_FLE
+73;Fruits, légumes, fleurs;FR_LE_FLE
+74;Fruits, légumes, fleurs;FR_LE_FLE
+75;Fruits, légumes, fleurs;FR_LE_FLE
+76;Fruits, légumes, fleurs;FR_LE_FLE
+77;Fruits, légumes, fleurs;FR_LE_FLE
+78;Fruits, légumes, fleurs;FR_LE_FLE
+79;Fruits, légumes, fleurs;FR_LE_FLE
+80;Fruits, légumes, fleurs;FR_LE_FLE
+81;Fruits, légumes, fleurs;FR_LE_FLE
+82;Fruits, légumes, fleurs;FR_LE_FLE
+83;Fruits, légumes, fleurs;FR_LE_FLE
+84;Fruits, légumes, fleurs;FR_LE_FLE
+85;Fruits, légumes, fleurs;FR_LE_FLE
+86;Fruits, légumes, fleurs;FR_LE_FLE
+87;Fruits, légumes, fleurs;FR_LE_FLE
+88;Fruits, légumes, fleurs;FR_LE_FLE
+89;Fruits, légumes, fleurs;FR_LE_FLE
+90;Betterave;BETTERAVE
+91;Fruits, légumes, fleurs;FR_LE_FLE
+92;Fruits, légumes, fleurs;FR_LE_FLE
+93;Fruits, légumes, fleurs;FR_LE_FLE
+94;Fruits, légumes, fleurs;FR_LE_FLE
+95;Fruits, légumes, fleurs;FR_LE_FLE
+96;Fruits, légumes, fleurs;FR_LE_FLE
+97;Fruits, légumes, fleurs;FR_LE_FLE
+98;Fruits, légumes, fleurs;FR_LE_FLE
+99;Fruits, légumes, fleurs;FR_LE_FLE
+100;Fruits, légumes, fleurs;FR_LE_FLE
+101;Fruits, légumes, fleurs;FR_LE_FLE
+102;Fruits, légumes, fleurs;FR_LE_FLE
+103;Fruits, légumes, fleurs;FR_LE_FLE
+104;Fruits, légumes, fleurs;FR_LE_FLE
+105;Fruits, légumes, fleurs;FR_LE_FLE
+106;Fruits, légumes, fleurs;FR_LE_FLE
+107;Fruits, légumes, fleurs;FR_LE_FLE
+108;Fruits, légumes, fleurs;FR_LE_FLE
+109;Fruits, légumes, fleurs;FR_LE_FLE
+110;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+111;Fruits, légumes, fleurs;FR_LE_FLE
+112;Fruits, légumes, fleurs;FR_LE_FLE
+113;Fruits, légumes, fleurs;FR_LE_FLE
+114;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+115;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+116;Fruits, légumes, fleurs;FR_LE_FLE
+117;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+118;Fruits, légumes, fleurs;FR_LE_FLE
+119;Fruits, légumes, fleurs;FR_LE_FLE
+120;Fève;FEVE
+121;Fruits, légumes, fleurs;FR_LE_FLE
+122;Fruits, légumes, fleurs;FR_LE_FLE
+123;Fruits, légumes, fleurs;FR_LE_FLE
+124;Fruits, légumes, fleurs;FR_LE_FLE
+125;Fruits, légumes, fleurs;FR_LE_FLE
+126;Fruits, légumes, fleurs;FR_LE_FLE
+127;Fruits, légumes, fleurs;FR_LE_FLE
+128;Fruits, légumes, fleurs;FR_LE_FLE
+129;Fruits, légumes, fleurs;FR_LE_FLE
+130;Fruits, légumes, fleurs;FR_LE_FLE
+131;Fruits, légumes, fleurs;FR_LE_FLE
+132;Fruits, légumes, fleurs;FR_LE_FLE
+133;Fruits, légumes, fleurs;FR_LE_FLE
+134;Fruits, légumes, fleurs;FR_LE_FLE
+135;Fruits, légumes, fleurs;FR_LE_FLE
+136;Fruits, légumes, fleurs;FR_LE_FLE
+137;Fruits, légumes, fleurs;FR_LE_FLE
+138;Fruits, légumes, fleurs;FR_LE_FLE
+139;Fruits, légumes, fleurs;FR_LE_FLE
+140;Fruits, légumes, fleurs;FR_LE_FLE
+141;Fruits, légumes, fleurs;FR_LE_FLE
+142;Fruits, légumes, fleurs;FR_LE_FLE
+143;Fruits, légumes, fleurs;FR_LE_FLE
+144;Betterave;BETTERAVE
+145;Fruits, légumes, fleurs;FR_LE_FLE
+146;Fruits, légumes, fleurs;FR_LE_FLE
+147;Fruits, légumes, fleurs;FR_LE_FLE
+148;Fruits, légumes, fleurs;FR_LE_FLE
+149;Fruits, légumes, fleurs;FR_LE_FLE
+150;Fruits, légumes, fleurs;FR_LE_FLE
+151;Fruits, légumes, fleurs;FR_LE_FLE
+152;Fruits, légumes, fleurs;FR_LE_FLE
+153;Fruits, légumes, fleurs;FR_LE_FLE
+154;Fruits, légumes, fleurs;FR_LE_FLE
+155;Fruits, légumes, fleurs;FR_LE_FLE
+156;Fruits, légumes, fleurs;FR_LE_FLE
+157;Fruits, légumes, fleurs;FR_LE_FLE
+158;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+159;Fruits, légumes, fleurs;FR_LE_FLE
+160;Fruits, légumes, fleurs;FR_LE_FLE
+161;Fruits, légumes, fleurs;FR_LE_FLE
+162;Fruits, légumes, fleurs;FR_LE_FLE
+163;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+164;Fruits, légumes, fleurs;FR_LE_FLE
+165;Fruits, légumes, fleurs;FR_LE_FLE
+166;Fruits, légumes, fleurs;FR_LE_FLE
+167;Fruits, légumes, fleurs;FR_LE_FLE
+168;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+169;Fruits, légumes, fleurs;FR_LE_FLE
+170;Fruits, légumes, fleurs;FR_LE_FLE
+171;Fruits, légumes, fleurs;FR_LE_FLE
+172;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+173;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+174;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+175;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+176;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+177;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+178;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+179;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+180;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+181;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+182;Bois pâturé;BOIS_PATU
+183;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+184;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+185;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+186;Fruits, légumes, fleurs;FR_LE_FLE
+187;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+188;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+189;Fruits, légumes, fleurs;FR_LE_FLE
+190;Autres;AUTRES
+191;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+192;Fruits, légumes, fleurs;FR_LE_FLE
+193;Bois pâturé;BOIS_PATU
+194;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+195;Fruits, légumes, fleurs;FR_LE_FLE
+196;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+197;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+198;Bois pâturé;BOIS_PATU
+199;Bordure;BORDURE
+200;Autres;AUTRES
+201;Bois pâturé;BOIS_PATU
+202;Bois pâturé;BOIS_PATU
+203;Bois pâturé;BOIS_PATU
+204;Bois pâturé;BOIS_PATU
+205;Bois pâturé;BOIS_PATU
+206;Bois pâturé;BOIS_PATU
+207;Bois pâturé;BOIS_PATU
+208;Bois pâturé;BOIS_PATU
+209;Vigne;VIGNE
+210;Autres;AUTRES
+211;Autres;AUTRES
+212;Autres;AUTRES
+213;Maïs;MAIS
+214;Maïs;MAIS
+215;Surface temporairement non-exploitée;SURF_TNEX
+216;Surface temporairement non-exploitée;SURF_TNEX
+217;Herbe prédominante;HERB_PRED
+218;Seigle de printemps;SEIGLE_P
+219;Moutarde;MOUTARDE
+220;Biomasse;BIOMASSE
+221;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+222;Légumineuses fourragères;LEGU_FOUR
+223;Légumineuses fourragères;LEGU_FOUR
+224;Herbe prédominante;HERB_PRED
+225;Autres fourrages;AUTR_FOUR
+226;Légumineuses fourragères;LEGU_FOUR
+227;Herbe prédominante;HERB_PRED
+228;Herbe prédominante;HERB_PRED
+229;Herbe prédominante;HERB_PRED
+230;Autres;AUTRES
+231;Biomasse;BIOMASSE
+232;Herbe prédominante;HERB_PRED
+233;Autres;AUTRES
+234;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+235;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+236;Autres;AUTRES
+237;Autres;AUTRES
+238;Fruits, légumes, fleurs;FR_LE_FLE
+239;Fruits, légumes, fleurs;FR_LE_FLE
+240;Fruits, légumes, fleurs;FR_LE_FLE
+241;Fruits, légumes, fleurs;FR_LE_FLE
+242;Tabac;TABAC
+243;Houblon;HOUBLON
+244;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+245;Plantes à parfum, aromatiques et médicinales;PLANT_PAM
+246;Autres;AUTRES
+247;Autres;AUTRES
+248;Betterave;BETTERAVE
+249;Lin de printemps;LIN_P
+250;Chanvre;CHANVRE
+251;Lin fibres;LIN_FIBRE
+252;Chanvre;CHANVRE
+253;Luzerne;LUZERNE
+254;Légumineuses fourragères;LEGU_FOUR
+255;Autres fourrages;AUTR_FOUR
+256;Légumineuses fourragères;LEGU_FOUR
+257;Légumineuses fourragères;LEGU_FOUR
+258;Légumineuses fourragères;LEGU_FOUR
+259;Luzerne;LUZERNE
+260;Luzerne;LUZERNE
+261;Fruits, légumes, fleurs;FR_LE_FLE
+262;Autres fourrages;AUTR_FOUR
+263;Autres fourrages;AUTR_FOUR
+264;Légumineuses fourragères;LEGU_FOUR
+265;Herbe prédominante;HERB_PRED
+266;Autres fourrages;AUTR_FOUR
+267;Légumineuses fourragères;LEGU_FOUR
+268;Autres;AUTRES
+269;Surface boisée;SURF_BOIS
